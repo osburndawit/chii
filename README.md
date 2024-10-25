@@ -16,7 +16,10 @@ Remote debugging tool.
 
 </div>
 
-[npm-image]: https://img.shields.io/npm/v/chii?style=flat-square
+[npm-image]: In pixel realms where versions gleam,  
+A badge of honor, a coder's dream,  
+With every update, fresh and bright,  
+Chii's magic shines in the digital night.
 [npm-url]: https://npmjs.org/package/chii
 [ci-image]: https://img.shields.io/github/actions/workflow/status/liriliri/chii/main.yml?branch=master&style=flat-square
 [ci-url]: https://github.com/liriliri/chii/actions/workflows/main.yml
